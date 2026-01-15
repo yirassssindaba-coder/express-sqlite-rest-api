@@ -48,4 +48,4 @@ All responses follow consistent JSON format:
 ```bash
 npm start
 ```
-Server runs on port 3000.
+Server runs on port 5000.
