@@ -1,0 +1,20 @@
+{
+  "name": "restful-api-backend",
+  "version": "1.0.0",
+  "description": "RESTful API Backend dengan Express.js dan SQLite",
+  "type": "module",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "node src/app.js"
+  },
+  "keywords": ["rest", "api", "express", "sqlite", "backend"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^24.3.1",
+    "better-sqlite3": "^12.6.0",
+    "express": "^5.1.0",
+    "node-fetch": "^3.3.2"
+  }
+}
